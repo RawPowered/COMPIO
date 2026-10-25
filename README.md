@@ -16,6 +16,10 @@
 
 <p align="center"><em>Watch concept. It does not represent a manufactured or clinically validated device.</em></p>
 
+<p align="center"><img src="assets/compio-app-health-overview.png" width="360" alt="COMPIO companion app health overview concept screen with illustrative sample data."></p>
+
+<p align="center"><em>Companion app concept screen. Displayed health values are illustrative design content, not medical guidance or validated measurements.</em></p>
+
 COMPIO explores a connected watch and companion app designed around everyday health and care routines. The project brings wearable product concepts together with mobile interfaces, supporting service ideas, and a unified visual identity.
 
 The work demonstrates product concept development across physical form, companion interactions, brand direction, and cross-device experience.
